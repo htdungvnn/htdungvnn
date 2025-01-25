@@ -1,15 +1,32 @@
-# Hello, I'm Hoang Tien Dung ! 👋
+# Hello, I'm Hoang Tien Dung! 👋
 
 ## About Me
-🎓 I studied Software Engineer at industrial University of HCM (IUH).<br>
-🔭 I’m currently working on FPT Software.<br>
-🌱 I’m currently learning .NET + English.<br>
-👯 I’m looking to collaborate on Developer Website.<br>
-🤔 I’m looking for help with growth-up self carer path.<br>
-💬 Ask me about Technical News.<br>
-📫 How to reach me: htdung.vnn@gmail.com.<br>
-😄 Pronouns: He/Him.<br>
-⚡ Fun fact: I have sunny smile :D .<br>
+
+- 🎓 **Education**: Graduated in Software Engineering from Industrial University of Ho Chi Minh City (IUH).
+- 🔭 **Current Role**: Software Engineer at FPT Software.
+- 🌱 **Currently Learning**: .NET Framework and improving English proficiency.
+- 👯 **Looking to Collaborate**: Interested in working on website development projects.
+- 🤔 **Seeking Guidance**: Always open to advice on advancing my career path and self-improvement.
+- 💬 **Let's Talk About**: Technical trends, innovative solutions, and software development best practices.
+- 📫 **Reach Me At**: [htdung.vnn@gmail.com](mailto:htdung.vnn@gmail.com)
+- 😄 **Pronouns**: He/Him.
+- ⚡ **Fun Fact**: Known for my sunny smile and positive attitude! 😄
 
 ## My Skills
-.NET, C#, TS, HTML, CSS, Angular, SQL, Mongo, RBMQ, Redis
+
+- **Programming Languages**: .NET, C#, TypeScript, SQL
+- **Web Development**: HTML, CSS, Angular
+- **Databases**: SQL Server, MongoDB
+- **Messaging Systems**: RabbitMQ
+- **Caching Systems**: Redis
+
+## Skill Proficiency Chart
+
+Below is a visual representation of my skill proficiency levels:
+
+![Skill Proficiency Chart](path/to/skill_proficiency_chart.png)
+
+---
+
+Feel free to connect with me to discuss projects, career opportunities, or share knowledge. Let’s build something amazing together!
+
