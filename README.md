@@ -33,45 +33,6 @@
 ## Skill Proficiency Spider Chart
 
 ![Skill Proficiency Spider Chart](Skill_Proficiency_Spider_Chart.png)
-## Skill Proficiency Spider Chart
-
-To generate the spider chart, you can use the following Python code:
-
-```python
-import numpy as np
-import matplotlib.pyplot as plt
-
-# Skills and proficiency levels
-skills = ['ASP.NET', 'Node.js (Express.js)', 'Angular', 'React', 'SQL', 'PostgreSQL', 'MongoDB', 'Redis', 'RabbitMQ', 'Kafka', 'AWS', 'Docker & Kubernetes']
-proficiency = [90, 75, 85, 80, 90, 85, 75, 70, 70, 65, 75, 80]
-
-# Close the loop for radar chart data
-values = proficiency + [proficiency[0]]
-angles = np.linspace(0, 2 * np.pi, len(skills), endpoint=False).tolist()
-angles += angles[:1]
-
-# Create the radar chart
-fig, ax = plt.subplots(figsize=(10, 10), subplot_kw=dict(polar=True))
-fig.patch.set_facecolor('black')  # Set the figure background to black
-
-# Plot the data
-ax.fill(angles, values, color='limegreen', alpha=0.4)
-ax.plot(angles, values, color='limegreen', linewidth=2)
-
-# Set the category labels and ticks
-ax.set_yticks([20, 40, 60, 80, 100])
-ax.set_yticklabels(['20%', '40%', '60%', '80%', '100%'], color='white', fontsize=10)
-ax.set_xticks(angles[:-1])
-ax.set_xticklabels(skills, fontsize=12, color='white')
-
-# Chart styling
-ax.set_facecolor('black')  # Set the chart area background to black
-ax.grid(color='limegreen', linestyle='--', linewidth=0.5, alpha=0.6)  # Green gridlines
-ax.set_title('Skill Proficiency Spider Chart (Dark Mode)', fontsize=16, color='white', y=1.1)
-
-plt.tight_layout()
-plt.savefig('updated_skill_proficiency_spider_chart_dark.png', dpi=300)
-plt.show()
 
 ---
 
