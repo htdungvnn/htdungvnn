@@ -30,6 +30,12 @@
 
 ---
 
+## Skill Proficiency Spider Chart
+
+![Skill Proficiency Spider Chart](updated_skill_proficiency_spider_chart_dark.png)
+
+---
+
 ## Experience Highlights
 
 ### FPT Software (2024 - Present)
