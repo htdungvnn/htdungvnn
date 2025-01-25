@@ -32,7 +32,7 @@
 
 ## Skill Proficiency Spider Chart
 
-![Skill Proficiency Spider Chart](updated_skill_proficiency_spider_chart_dark.png)
+![Skill Proficiency Spider Chart](Skill_Proficiency_Spider_Chart.png)
 
 ---
 
